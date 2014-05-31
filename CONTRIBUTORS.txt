@@ -6,4 +6,4 @@ Creator
 -Mahmoud Al-Ismail, mahmoud.alismail@gmail.com
 
 Contributors
--<yourName>, <yourEmail>
+-Ben Scott, bescott@andrew.cmu.edu
